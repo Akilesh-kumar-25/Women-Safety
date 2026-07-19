@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.env
+db.json
+serviceAccountKey.json
+__pycache__/
+*.pyc
+uploads/
